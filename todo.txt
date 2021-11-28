@@ -1,0 +1,23 @@
+1) can only add one file at a time to                     //DONE
+2)using async series                                      //DONE
+3) no email repeat                                        //DONE
+4) if email || name is empty ignore that row              //DONE
+5) inValid format of file (Alerts)                        //DONE
+6) Loading animation                                      //DONE
+
+{
+    "_id": "61a1dcf9876aa6da5e71b6f2",
+    "name": "Ashish Kumar",
+    "email": "assignment1@klimbdemo.com",
+    "mobile": "9876543211",
+    "dob": "16 Nov 1991",
+    "experience": "5 Year(s)",
+    "resume": "Front End JavaScript Developer, with 2 years of experience in customer interaction interface design and development",
+    "location": "Bengaluru",
+    "address": "H.No. 22, Street 12, Indra Nagar, Bengalure, Karnataka",
+    "currentEmployer": "Logly",
+    "currentDesignation": "Member of Technical Staff",
+    "createdAt": "2021-11-27T07:23:37.140Z",
+    "updatedAt": "2021-11-27T07:23:37.140Z",
+    "__v": 0
+}
